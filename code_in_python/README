@@ -1,0 +1,17 @@
+README
+
+Ashwin Ramananda 
+Chaitanya Atluri
+Anuja Gore
+Umaymah Sultana
+
+
+Run from Terminal : 
+
+	- Make sure you are in the same directory as the following three files
+		- 'Lstm_main.py' 
+		- 'lstm.py'
+		- 'sbi.csv'
+
+	- Run the following command 
+		> python Lstm_main.py
